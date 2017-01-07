@@ -19,6 +19,11 @@ Because it is not possible to mutate these database records, it's only practical
 
 Bitcoin's most popular use is as digital cash for the internet. Using Bitcoin, Sara can pay Charlie for goods or services. There **@todo something about paying without middlemen & how it liberates from Visa/MC/Paypal**
 
+**@todo something about anonymity**
+
+  * psunonymous
+  * as anonymous as cash
+  
 
 **@todo something about how to use Bitcoin.**
 
@@ -47,6 +52,10 @@ Bitcoin's most popular use is as digital cash for the internet. Using Bitcoin, S
   * Monero
   * Doge
   * Competition is healthy
+
+
+
+
 
 
 
