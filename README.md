@@ -74,22 +74,14 @@ Since Bitcoin is just a database with unalterable records, other uses for Bitcoi
 
 ###### The cons of Bitcoin
 
-Bitcoin is a disorganized ecosystem of miners, sellers, spenders, investors, and developers, *and it works*. Nobody but the participants run Bitcoin. There is incentive to participate in that buyers and sellers can free themselves from deep-seated, often corrupt monetary systems, while miners can bolster the network's robustness, earning Bitcoin in return.
+Bitcoin is going through an awkward phase right now. There are definate growing pains associated with it's governance model being a "Hashogracy", where whichever miners have majority computing power set the rules for the network. Many miners are holding back on upgrading to new mining software with features that help Bitcoin scale to widespread use, because their profits would lessen. Because of this resistance, transaction times in Bitcoin are slow on occasion, and transaction fees are on the rise.
 
-Bitcoin is in an awkward phase right now, where miners and developers aren't seeing eye to eye.
+###### Altcoins
 
-
-  * Governance model
-  * Slow & expensive transactions
+Competition is healthy, and alternatives to Bitcoin are cropping up almost every day. In terms of market capital, Ethereum comes in number 2 with ~$17 Billion. Ethereum offers more features such as programmable smart contracts, where you can send money only when certain conditions are satisfied. DASH is another good alt coin, offering a private ledger for anonymous transactions as well as a voting system for deciding on network-wide changes. The list goes on and on, with intended special use cases varying from humourous Dogecoin, to ultra-fast Litecoin, to provocative PotCoin. There is a coin for everyone!
 
 
-**@todo something about other cryptocurrencies**
 
-  * DASH
-  * Ethereum
-  * Monero
-  * Doge
-  * Competition is healthy
 
 
 
