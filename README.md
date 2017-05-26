@@ -57,7 +57,7 @@ When Charlie sends 1 Bitcoin to George, the Bitcoin isn't actually going anywher
 
 The easiest way to use Bitcoin is to install "Bitcoin wallet" software on your smartphone. Using a popular Bitcoin wallet such as Mycelium, you can generate public and private keys which you can use for receiving and sending Bitcoin. Having a Bitcoin wallet on your phone is often called a "hot wallet," meaning it's not the most secure way of storing Bitcoin. You could potentially lose your phone, along with your private keys, which means you wouldn't be able to spend your Bitcoin anymore.
 
-Because of the nature of hot wallets, it is important to create a backup of your private keys in case your device is lost or stolen. This feature is available in all Bitconi wallets worth their salt. Remember, your wallet doesn't hold the Bitcoin, it only holds the keys which allow you to spend your Bitcoin. As long as you have your private keys, you can recover your ability to spend your Bitcoin even if your device is lost.
+Because of the nature of hot wallets, it is important to create a backup of your private keys in case your device is lost or stolen. This feature is available in all Bitcoin wallets worth their salt. Remember, your wallet doesn't hold the Bitcoin, it only holds the keys which allow you to spend your Bitcoin. As long as you have your private keys, you can recover your ability to spend your Bitcoin even if your device is lost.
 
 
 ###### High security Bitcoin
