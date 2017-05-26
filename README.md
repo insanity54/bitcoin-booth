@@ -78,7 +78,7 @@ Bitcoin is going through an awkward phase right now. There are definate growing 
 
 ###### Altcoins
 
-Competition is healthy, and alternatives to Bitcoin are cropping up almost every day. In terms of market capital, Ethereum comes in number 2 with ~$17 Billion. Ethereum offers more features such as programmable smart contracts, where you can send money only when certain conditions are satisfied. DASH is another good alt coin, offering a private ledger for anonymous transactions as well as a voting system for deciding on network-wide changes. The list goes on and on, with intended special use cases varying from humourous Dogecoin, to ultra-fast Litecoin, to provocative PotCoin. There is a coin for everyone!
+Competition is healthy, and alternatives to Bitcoin are cropping up almost every day. In terms of market capital, Ethereum comes in number 2 with ~$17 Billion. Ethereum offers more features such as programmable smart contracts, where you can send money only when certain conditions are satisfied. DASH is another good alt coin, offering a private ledger for anonymous transactions as well as a voting system for deciding on network-wide changes. The list goes on and on, with intended special use cases varying from humourous Dogecoin, to ultra-fast Litecoin, to dank PotCoin. There is a coin for everyone!
 
 
 
