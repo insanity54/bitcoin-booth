@@ -50,7 +50,7 @@ Bitcoin is not anonymous, because it's blockchain or ledger is public record. An
 
 ###### It's like a bank transfer
 
-When Charlie sends 1 Bitcoin to George, the Bitcoin isn't actually going anywhere. All that is happening is that the global Bitcoin ledger (blockchain) is being updated to show that George now owns 1 more Bitcoin, and Charlie owns 1 less Bitcoin. Charlie is able to spend the Bitcoin in his account is because Charlie owns the **private key** which unlocks the Bitcoin he owns. In Bitcoin, private keys equal ownership. Without that private key, Charlie can't spend the Bitcoin in his account.
+When Charlie sends 1 Bitcoin to George, the Bitcoin isn't actually going anywhere. All that is happening is that the global Bitcoin ledger (blockchain) is being updated to show that George now owns 1 more Bitcoin, and Charlie owns 1 less Bitcoin. Charlie is able to spend the Bitcoin in his account because Charlie owns the **private key** which unlocks the Bitcoin he owns. In Bitcoin, private keys equal ownership. Without that private key, Charlie can't spend the Bitcoin in his account.
 
 
 ###### Use it on the go
