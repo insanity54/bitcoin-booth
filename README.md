@@ -13,7 +13,7 @@ Because it is not possible to mutate these database records, it's only natural t
 
 ##### Who owns Bitcoin?
 
-Bitcoin is not a company; Bitcoin is a protocol. You may have heard of TCP/IP, a computer protocol which powers much of the internet. Just like TCP/IP, Bitcoin the protocol is not owned by anyone, it is simply a virtual tool which anyone can use to securely prove ownership of resources.
+Bitcoin is not a company; Bitcoin is a protocol. You may have heard of TCP/IP, a computer protocol which powers much of the internet. Just like TCP/IP, Bitcoin the protocol is not owned by anyone, it is simply a tool which anyone can use to securely prove ownership of resources.
 
 
 ##### What is Bitcoin mining?
@@ -23,7 +23,7 @@ Bitcoin mining is a process which prevents users from cheating the ledger. Miner
 
 ##### What is Bitcoin backed by? ** @todo maybe not helpful for beginners? **
 
-Definately not authority. Bitcoin is backed by Math, and Energy. (Try corrupting those!)
+Definitely not authority. Bitcoin is backed by Math, and Energy. (Try corrupting those!)
 
 
 ##### How many Bitcoin are there? **@todo probably too much detail here**
@@ -50,14 +50,14 @@ Bitcoin is not anonymous, because it's blockchain or ledger is public record. An
 
 ###### It's like a bank transfer
 
-When Charlie sends 1 Bitcoin to George, the Bitcoin isn't actually going anywhere. All that is happening is that the global Bitcoin ledger (blockchain) is being updated to show that George now owns 1 more Bitcoin, and Charlie owns 1 less Bitcoin. Charlie is able to spend the Bitcoin in his account is because Charlie owns the **private key** which unlocks the Bitcoin he owns. In Bitcoin, private keys equal ownership. Without that private key, Charlie can't spend the Bitcoin in his account.
+When Charlie sends 1 Bitcoin to George, the Bitcoin isn't actually going anywhere. All that is happening is that the global Bitcoin ledger (blockchain) is being updated to show that George now owns 1 more Bitcoin, and Charlie owns 1 less Bitcoin. Charlie is able to spend the Bitcoin in his account because Charlie owns the **private key** which unlocks the Bitcoin he owns. In Bitcoin, private keys equal ownership. Without that private key, Charlie can't spend the Bitcoin in his account.
 
 
 ###### Use it on the go
 
 The easiest way to use Bitcoin is to install "Bitcoin wallet" software on your smartphone. Using a popular Bitcoin wallet such as Mycelium, you can generate public and private keys which you can use for receiving and sending Bitcoin. Having a Bitcoin wallet on your phone is often called a "hot wallet," meaning it's not the most secure way of storing Bitcoin. You could potentially lose your phone, along with your private keys, which means you wouldn't be able to spend your Bitcoin anymore.
 
-Because of the nature of hot wallets, it is important to create a backup of your private keys in case your device is lost or stolen. This feature is available in all Bitconi wallets worth their salt. Remember, your wallet doesn't hold the Bitcoin, it only holds the keys which allow you to spend your Bitcoin. As long as you have your private keys, you can recover your ability to spend your Bitcoin even if your device is lost.
+Because of the nature of hot wallets, it is important to create a backup of your private keys in case your device is lost or stolen. This feature is available in all Bitcoin wallets worth their salt. Remember, your wallet doesn't hold the Bitcoin, it only holds the keys which allow you to spend your Bitcoin. As long as you have your private keys, you can recover your ability to spend your Bitcoin even if your device is lost.
 
 
 ###### High security Bitcoin
