@@ -13,7 +13,7 @@ Because it is not possible to mutate these database records, it's only natural t
 
 ##### Who owns Bitcoin?
 
-Bitcoin is not a company; Bitcoin is a protocol. You may have heard of TCP/IP, a computer protocol which powers much of the internet. Just like TCP/IP, Bitcoin the protocol is not owned by anyone, it is simply a virtual tool which anyone can use to securely prove ownership of resources.
+Bitcoin is not a company; Bitcoin is a protocol. You may have heard of TCP/IP, a computer protocol which powers much of the internet. Just like TCP/IP, Bitcoin the protocol is not owned by anyone, it is simply a tool which anyone can use to securely prove ownership of resources.
 
 
 ##### What is Bitcoin mining?
@@ -23,7 +23,7 @@ Bitcoin mining is a process which prevents users from cheating the ledger. Miner
 
 ##### What is Bitcoin backed by? ** @todo maybe not helpful for beginners? **
 
-Definately not authority. Bitcoin is backed by Math, and Energy. (Try corrupting those!)
+Definitely not authority. Bitcoin is backed by Math, and Energy. (Try corrupting those!)
 
 
 ##### How many Bitcoin are there? **@todo probably too much detail here**
