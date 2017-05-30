@@ -33,7 +33,7 @@ The easiest way to get started with Bitcoin is to install "Bitcoin wallet" softw
 
 ## How is Bitcoin used?
 
-Bitcoin's most popular use is as digital cash for the internet. Using Bitcoin, Sara can pay Charlie directly for goods or services, in the same way as when she pays in-person using physical cash. Bitcoin liberates users from the fees, political censorship, middlemen, and gatekeepers which are inherent in payment methods such as VISA, MASTERCARD, and Paypal.
+Bitcoin's most popular use is as digital cash for the internet. Using Bitcoin, Sara can pay Charlie directly for goods or services, in the same way as when she pays in-person using physical cash. Bitcoin liberates users from the fees, political censorship, middlemen, and gatekeepers which are inherent in payment methods such as VISA, Mastercard, and Paypal.
 
 
 ## Is Bitcoin anonymous?
